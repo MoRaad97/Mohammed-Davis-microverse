@@ -103,3 +103,13 @@ body {
     margin-top: 80px;
 
 }
+
+}
+footer{
+  background-color: #cf1717;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+  font-size: 18px;
+  padding: 15px;
+}
