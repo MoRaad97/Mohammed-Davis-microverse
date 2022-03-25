@@ -1,0 +1,44 @@
+body {
+  margin: 0px;
+}
+#navbar {
+  display: flex;
+  justify-content: space-between;
+  background-color: #cf1717;
+}
+#navbar #logo {
+  display: flex;
+  align-items: center;
+}
+#navbar #logo img {
+  width: 60px;
+}
+#navbar ul {
+  text-decoration: none;
+  margin: 0px;
+  list-style: none;
+  display: flex;
+  margin-right: 10px;
+}
+#navbar ul li {
+  margin-right: 10px;
+  padding: 21px;
+}
+#navbar ul li:hover {
+  background-color: darkred;
+  font-weight: bold;
+}
+#navbar ul li a {
+  text-decoration: none;
+  color: black;
+}
+
+#welcome-section {
+}
+#welcome-section h1 {
+}
+#projects {
+}
+
+#projects #project-tile {
+}
